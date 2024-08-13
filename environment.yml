@@ -1,0 +1,14 @@
+name: ROMS-A4-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - xarray
+  - matplotlib
+  - cmocean
+  - seaborn
+  - xgcm
+  - jupyterlab
+  - gcm_filters
+  - scikit-image
+  - netcdf4
